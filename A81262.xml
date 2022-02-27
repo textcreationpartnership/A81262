@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case is altred [sic]: both thy case, and my case, and every mans case. With a direction for a speedy present way to make every thing dog-cheap.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81262</idno>
+            <idno type="STC">Wing C869</idno>
+            <idno type="STC">Thomason E556_9</idno>
+            <idno type="STC">ESTC R205762</idno>
+            <idno type="EEBO-CITATION">99865044</idno>
+            <idno type="PROQUEST">99865044</idno>
+            <idno type="VID">165129</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81262)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165129)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E556[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case is altred [sic]: both thy case, and my case, and every mans case. With a direction for a speedy present way to make every thing dog-cheap.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the yeare 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire on Parliament.</note>
+                  <note>Annotation on Thomason copy: "May. 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Humor --  Early works to 1800.</term>
+               <term>Political satire --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165129:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Caſe is altred:</hi> BOTH THY CASE, AND MY Caſe, and every mans Caſe.</p>
+            <p>With a direction for a ſpeedy preſent way to make every thing Dog-cheap.</p>
+            <p>Printed in the Yeare 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165129:2"/>
+            <pb n="1" facs="tcp:165129:2"/>
+            <head>The caſe is altered.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here are as many Caſes as there are living creatures, the caſes of our bodies are our skinnes, and the caſe of our ſouls is our bodies: And as a leaden ſword may have a golden ſcabbard, or a woodden dagger a velvet ſheath: ſo many a faire rich caſe covers a foule poore carcaſſe, and many a beautifull outſide is the caſe of a treacherous inſide; for <hi>Lucifer</hi> was a bright An<g ref="char:EOLhyphen"/>gell, <hi>Saul</hi> a goodly Perſonage, <hi>Abſolon</hi> faire, and <hi>Jezabell</hi> of rare and painted exquiſite beauty. Theſe were once in very good, (or great) places, and caſes, (as many thouſands more have been.) But the Pride of one made him a Devil, the diſobedience of the other made him a caſt away, and deſperately kill himſelf, the Rebellion of the third purchaſt him a ſelf caſuall hanging by the haire of his head, and loud crying murther was repayed to the fourth a (murdreſſe,) for ſhe was eaten up by dogs. So that with them the caſes or caſe was ſtrangely altered.</p>
+            <p>To take the words of my Title in order as they lie: Firſt THE the words, THE CASE, doth impart the onely one main Caſe, as much as to ſay, THE CASE of moſt concernment and conſequence IS ALTERED: for as a Bible is a book, ſo THE Bible is the book of books, to which (in compariſon) all other books are but Pamphlets, or as he that calls to his ſervant to fetch him a Cloak, or his Cloak may perhaps have more Cloaks then one; but he that calls for THE CLOAKE, it is to be ſuppoſed hath no more but one. The <hi>Athe<g ref="char:EOLhyphen"/>nians</hi> were great Idolaters, and they erected Altars to a great many ungodly gods; but onely one Altar had the Inſcription upon it, To THE UNKNOWN GOD: That God was, is, and will be everlaſt<g ref="char:EOLhyphen"/>ingly THE GOD, He changeth not, nor is ever to have ſo much as a ſhadow of change or alteration, but with all things mortall, The caſe is altered.</p>
+            <p>Is, the word ſayes not was (or will be altered) But is in the pre<g ref="char:EOLhyphen"/>ſent Tenſe, which denotes unto us the continuall attendance of our changing Mutability, The caſe was altered with the foure Monar<g ref="char:EOLhyphen"/>chies of the world, from the <hi>Aſſyrians</hi> to the <hi>Perſians,</hi> from the <hi>Per<g ref="char:EOLhyphen"/>ſians</hi>
+               <pb n="2" facs="tcp:165129:3"/>to the <hi>Grecians,</hi> from the <hi>Greeks,</hi> to the <hi>Romanes,</hi> and from the <hi>Romanes</hi> (almoſt) no whither. This Kingdome of <hi>England,</hi> hath had its caſe ſix times altered: Firſt it was conquered by the <hi>Bryttains:</hi> Se<g ref="char:EOLhyphen"/>condly, by the <hi>Romanes:</hi> Thirdly, by the <hi>Saxons:</hi> Fourthly by the <hi>Danes:</hi> Fiftly by the <hi>Normanes,</hi> and laſtly (for want of a forreigne enemy, we have made a ſhift to warre without a foe) whereby we have moſt courteouſly conquered one another, inſomuch that there is ſcarce any one houſe, name, family or perſon, either of the Royall Party, or the preſent Army, (or a Party) but may truly ſay, the Caſe is altered.</p>
+            <p>It is to be noted that all thoſe great men who had any hand in the killing of <hi>Julius Ceſar</hi> (in hope to deſtroy Monarchie) did afterwards murther themſelves, or die violent, and untimely deaths, the fruits of their attempts were fruſtrated, Monarchie was remounted, and their Caſes altered.</p>
+            <p>When Great and Good Families are Metamorphoſed into beggars and knaves, and beggars raiſed to high preferments and rich for<g ref="char:EOLhyphen"/>tunes, a man may think (though he dare not ſay) that with both theſe ſorts of people, the caſe is ſtrangely altered.</p>
+            <p>It may be imagined that all <hi>England</hi> is transformed into one entire <hi>Bedlam,</hi> or habitation of mad folks, all are not either as they would or ſhould be, no one is fully contented, and moſt of them will never be ſatisfied; they com plain of want, they grumble at ſcareity, and (cut of their Lunacie or Frenſie) in this time of plenty would make us believe every thing is deare, when it is onely a meere fantaſie of the brain, a Whirligigge in the mind, e a ſquinting, or miſty vapour before the eyes, a meere <hi>deceptio viſûs,</hi> or deluſion of the ſight, which ſo far ſtupifies and plunders our wits and ſenſes that we neither feel our comforts, or ſee our happineſſe.</p>
+            <p>Is it not ſtrange that Wheat ſhould be three ſhillings the Buſhell, and we are ſo madly blind that we cannot ſee it, and fooliſhly dream that we pay ten or eleven ſhillings for it? Coals (very good ſea coals) at three pence the Buſhell (at <hi>Caſtela Nova</hi>) and we talk idly, that we have lately paid two ſhillings foure pence the Buſhell (with other high prices) but we have eaten Charvill, which hath the vertue and operation to make folks think, that every one thing they ſee, is either double, treble, or foure times more then it was wont to be.</p>
+            <pb n="3" facs="tcp:165129:3"/>
+            <p>It is not perceived that ſo many faſt dayes, and dayes of Humiliati<g ref="char:EOLhyphen"/>on have brought down the Price of fleſh, more then Hecatombes of Popiſh Lents or Ember weeks could have done, all the Vigills (or ſu<g ref="char:EOLhyphen"/>perſtitious Eves) of Saints, the nice obſervation of them did formerly raiſe meat to very high rates, whereas the ſuppreſſing of them hath brought ſuch a cheapneſſe amongſt us, that any one that will buy the beſt Beef, <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> may have a ſtone for ten pence, and all other things (ex<g ref="char:EOLhyphen"/>cept Butter and green Geeſe are as a man may ſay) dog cheap.</p>
+            <p>There is a Cook that dwells in long Acre (two or three houſes from the Globe Taverne,) that dreamed he ſold a ſhoulder of Mutton and a Calves head (with no Bacon) for eighteen Shillings, on Mon<g ref="char:EOLhyphen"/>day the 22 of <hi>April</hi> laſt; the Cook believes and dare ſwear it true, and I thought it very neceſſary (for the honour of our Lords of miſrule, and Maſters of miſchief) to declare to the world what cheapneſſe and plenty we are brought to by Diviſions and Diſtractions, by which extraordinary happines, we may believe (as a great many ſimpletons do) that the Caſe of three great Kingdomes is in a manner altered.</p>
+            <p>But it is beyond the thoughts and Apprehenſions of all wiſe men here, (and beyond Sea) That true borne <hi>Engliſh</hi> men, Loyall Sub<g ref="char:EOLhyphen"/>jects, and profeſſed Proteſtants would ever ſo farre degenerate from their profeſſion of fearing of God, or their Allegeance towards their Lawfull Soveraigne (being a Proteſtant) as to hunt him up and down, to and fro, to every County of <hi>England,</hi> to deprive him of all Earth<g ref="char:EOLhyphen"/>ly comforts, to ſcandall him with venemous Tongues and pens in Pulpits, and written, and Printed Libells, and weekly occurrences, and Roguiſh Pamphlets: To mock him with a Treaty, and (when Peace was agreed on) to cut His throat at his own doore, to ſhare all His houſes, goods, Lands, Jewells, and whole eſtate, to diſhin<g ref="char:EOLhyphen"/>herit Root and Branch, all the Royall poſterity, to ſtarve all the Kings Servants, ſuch as did never bear Armes, but attend onely on his per<g ref="char:EOLhyphen"/>ſon, according to their Oathes and duties. Me thinks it is impoſſible for any men to be ſo Diveliſh mad to do all theſe things, (with many more vertuous actions) but I cannot be ſo ſottiſhly frantick to believe other wiſe, but that we all are in a dream, for it is beyond all beliefe, or example, that Chriſtians, <hi>Engliſh</hi> men, Proteſtants and true Subjects would or could be ſo farre deprived of Grace, Wiſdome, Under<g ref="char:EOLhyphen"/>ſtanding, Wit, Senſe, or common Capacity, as wilfully headlong to
+<pb n="4" facs="tcp:165129:4"/>precipitate themſelves into ſuch, and ſo many Temporall, and Eter<g ref="char:EOLhyphen"/>nall dangers as ſuch horrid deſignes muſt neceſſarily produce. But theſe are onely mad dreams, as may be fancied, with no more ſhew of truth amongſt honeſt men (except ſuch as either ſaw, or feele the miſeries and miſchiefs) then it is for a great Earl to degenerate ſo farre as to be a Knight of a Shire, or a Lord Major to deſcend lower, then to the office of an Headborough or Tithingman.</p>
+            <p>Charity is a moſt heavenly vertue, her chiefeſt delight being ſtill to be doing of good, and in rel<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eving the neceſſities and wants of the needy: true Charity is never idle, and becauſe ſhe ſhall not want work, there are freſh and new beggers made every day, but the Proverb ſayes, Charity ſhould begin at home; but where her home is, is a very hard and cold enquiry: It is to be imagined that ſhe is well eſteemed, and much made of in the Houſe of Commons at <hi>Westminſter,</hi> for their weekly Hiſtorians and Chronologers of their moſt Honourable Acts and Monuments, do week-ly, moderate-ly, and perfect currant-ly, ſet forth their abundant love of Charity, for a great part of their Pamphlets do frequently, devoutly, and palpably de<g ref="char:EOLhyphen"/>clare the care and pains there taken for the ſpeedy relief of the poore, and the further encreaſe of Beggers for the Kingdomes honour, the humiliation of the Malignant Party, and the exerciſe of Charity.</p>
+            <p>But ſuppoſe there were a dearth, dearneſſe and ſcarcity of food, fewell, and other things which are the Preſervers and maintainers of our Lives, yet there is a ſpeciall, provident, ſpeedy way to avoid a ſudden famine, to procure a preſent plentie.</p>
+            <p>And it is a wonder, that our State-Pollitians have not long agoe put it in practiſe, for it would make them to be more honoured for ſo charitable a worke, then for all the good that ever they have done ſince their firſt ſitting, and thus it is.</p>
+            <p>Firſt if they would conſider the great number of Malignants, and the many thouſands that are ſequeſtrated: amongſt all which innumerable numbers with their Families, their oppreſſours have not one friend amongſt them all. They with their Children, Wives, Kins<g ref="char:EOLhyphen"/>folks, Friends and Allies, cannot be fewer then a million of mouths, and thoſe mouths do eat and feed every day upon ſuch meat as the Godly Parliament and ſanctified Army ſhould have: and ſeeing they are deprived of their livelyhood, and means of ſubſiſtence to live,
+<pb n="5" facs="tcp:165129:4"/>It is as juſt to cut their throats, and take away their lives, and by ſo doing ſtop ſo many mouths at once from eating: and this is one way to ſtay abundance of S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nacks, and to bring down the price of victualls ſuddenly, beſides it will raiſe more money for the State and Army, by making quick Sale of ſuch ſmall poſſeſſions of Lands and Goods, which as yet all thoſe (whom they are pleaſed to call Ma<g ref="char:EOLhyphen"/>lignants and Delinquents) do live poorely upon.</p>
+            <p>Secondly, if they would be pleaſed to hang all the Whores, and Whore-maſters in the Kingdome; and that a Committee be appoint<g ref="char:EOLhyphen"/>ed for that purpoſe: And further that the ingenious <hi>Harry Martin</hi> may be Chaireman to the ſaid Committee.</p>
+            <p>And alſo (if they pleaſe) they may take all the drunkards, loyte<g ref="char:EOLhyphen"/>rers and idle vagabonds, and thieves, Sectaries, knaves and Level<g ref="char:EOLhyphen"/>lers into the bargain.</p>
+            <p>Thirdly, they may do as the Canniball <hi>Braſilians</hi> do in <hi>Ameri<g ref="char:EOLhyphen"/>ca,</hi> kill all the old folks men and women of all degrees, who by reaſon of their decrepit impotency, weaknes, and encombrances of old age, are but a chargeable peſtring and trouble to the State, and little or no pleaſure to themſelves; and when they have killed them, they may eat them as the Canniballs do.</p>
+            <p>Fourthly, they may hang up all the Beggars, male and female, old and young, (blind, lame, deaf and dumb) this is a piece of Charity (for it is better to hang then ſtarve) beſides it will be no loſſe to the State for they can at their pleaſure make Beggers at any time, or at all times more then a good many.</p>
+            <p>Fifthly, they may play the part of <hi>Herod,</hi> (not to deſtroy males of two yeares old and under) But to diſpatch all the females which are not ſeven years of age, for the feminine exceeds the maſculine ſe<g ref="char:EOLhyphen"/>ven to one, and the Girles outvie the boyes more then treble in num<g ref="char:EOLhyphen"/>ber, and all thoſe toyes do eat and drink daily, and help to make every thing deare. It may be conſidered that men have more wayes to dy then naturall deaths; but (for the moſt part) women do ſeldome dy by any caſualty of warre either by Sea or Land, as men do, for if the women do fight at any time, it is but a kind of <hi>Billingſgate</hi> Battell with tongue and nailes, ſcolding and ſcratching, and thoſe con<g ref="char:EOLhyphen"/>flicts are ſeldome mortall.</p>
+            <pb n="6" facs="tcp:165129:5"/>
+            <p>Laſtly, if they would hang up all the Rebells and Traitours, or all the Enemies of the late King, it would be much available for the ſa<g ref="char:EOLhyphen"/>ving of dinners and ſuppers; but if they will do none of theſe things (for the good of the Common-wealth) then they are hum<g ref="char:EOLhyphen"/>bly deſired to hang themſelves for the caſe of the Kingdome.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
